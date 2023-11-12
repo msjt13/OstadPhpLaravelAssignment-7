@@ -26,8 +26,6 @@ Route::get('/user', [UserController::class, 'index']);
 ```
 php artisan serve
 ```
-## Go to the following URL
-[OSTAD - Assignment7](http://localhost:8000/user)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
